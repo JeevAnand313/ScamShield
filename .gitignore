@@ -24,6 +24,9 @@ ENV/
 # Streamlit
 .streamlit/cache/
 
+# Generated analysis output
+graphify-out/
+
 # macOS / editors
 .DS_Store
 .AppleDouble
